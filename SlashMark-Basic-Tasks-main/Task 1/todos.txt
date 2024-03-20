@@ -1,0 +1,5 @@
+2 - Meditation - False
+3 - Read a book daily - False
+2 - Meditation - False
+3 - Eat Breakfast - False
+4 - Learn a new skill - False
